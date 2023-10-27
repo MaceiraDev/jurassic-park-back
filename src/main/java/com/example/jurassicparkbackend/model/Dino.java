@@ -1,4 +1,4 @@
-package com.example.jurassicparkbackend.dino;
+package com.example.jurassicparkbackend.model;
 
 import jakarta.persistence.*;
 
