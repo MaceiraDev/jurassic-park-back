@@ -17,5 +17,9 @@ public class DinoService {
         return dinoRepository.findAll();
     }
 
+    public Dino salvar(Dino dino) {
+        return dinoRepository.save(dino);
+    }
+
 
 }
